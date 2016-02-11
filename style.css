@@ -129,9 +129,13 @@ h3 {
 }
 
 p {
-    padding: 10px;
+    padding: 20px;
 }
 
 section {
     text-align: center;
+}
+
+section img{
+    padding: 20px;
 }
