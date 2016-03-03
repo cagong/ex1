@@ -37,13 +37,20 @@ h1 {
 
 #column1 {
 	float: left;
-	margin-left: 200px;
+    margin-left: 100px;
 }
 
 #column2 {
-	float: right;
-	margin-right: 200px;
+	float: left;
+    margin-left: 50px;
 }
+
+#column3 {
+	float: left;
+    margin-left: 10px;
+}
+
+
 
 footer {
 	position: fixed;
@@ -84,7 +91,7 @@ li a:link {
 	display: block;
 	width: 200px;
 	margin: 5px;
-	padding: 10px;
+	padding: 5px;
 	background-color: #fff;
 	color: #7f7f7f;
 	text-decoration: none;
